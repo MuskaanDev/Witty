@@ -9,8 +9,8 @@ query for bot - what is the distance between Earth and the Moon
 
 ## Technologies
 
--Programming Language: Go
--APIs: Slack API, Wit.ai, Wolfram Alpha API
+- Programming Language: Go
+- APIs: Slack API, Wit.ai, Wolfram Alpha API
 ### Libraries:
 - github.com/joho/godotenv for managing environment variables
 - github.com/krognol/go-wolfram for Wolfram Alpha integration
